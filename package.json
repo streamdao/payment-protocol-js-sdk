@@ -1,5 +1,5 @@
 {
-    "name": "root",
+    "name": "stream-payment-protocol",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/streamdao/payment-protocol-js-sdk.git"

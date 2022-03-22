@@ -9,7 +9,7 @@ Stream Payment is a token distribution platform powered by a streaming payments'
 There are several ways to use **Stream Payment Protocol**:
 
 - **(easiest) [streampayment.app](https://streampayment.app)** (React application that uses JS SDK directly)
-- **[JS SDK](https://github.com/streamdao/payments-protocol-js-sdk)** to interact with the protocol => [NPM package](https://www.npmjs.com/package/@streamdao/stream/v/2.0.0)
+- **[JS SDK](https://github.com/streamdao/payments-protocol-js-sdk)** to interact with the protocol => [NPM package](https://www.npmjs.com/package/@streamdao/stream-payment-protocol/v/0.1.0)
 - **[Rust SDK](https://github.com/streamdao/stream-payment-protocol-rust-sdk)** to integrate within a Solana program => [Rust Crate](https://docs.rs/stream-payment-sdk/)
 
 ## JS SDK

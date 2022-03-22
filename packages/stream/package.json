@@ -1,6 +1,6 @@
 {
-    "name": "@streamdao/stream",
-    "version": "2.2.1",
+    "name": "@streamdao/stream-payment-protocol-js-sdk",
+    "version": "0.1.0",
     "description": "JavaScript SDK to interact with Stream Payment Protocol.",
     "main": "dist/index.js",
     "homepage": "https://github.com/streamdao/payments-protocol-js-sdk/",
@@ -9,5 +9,5 @@
         "build": "tsc --outDir ./dist",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "gitHead": "a37306eba0e762af096db642fa22f07194014cfd"
+    "gitHead": ""
 }
