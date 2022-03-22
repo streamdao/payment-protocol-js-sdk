@@ -1,5 +1,5 @@
 {
-    "name": "@streamdao/stream-payment-protocol-js-sdk",
+    "name": "@streamdao/stream-payment-protocol-payment-protocol-js-sdk",
     "version": "0.1.0",
     "description": "JavaScript SDK to interact with Stream Payment Protocol.",
     "main": "dist/index.js",

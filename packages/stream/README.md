@@ -9,7 +9,7 @@ Stream Payment is a token distribution platform powered by a streaming payments'
 There are several ways to use **Stream Payment Protocol**:
 
 - **(easiest) [streampayment.app](https://streampayment.app)** (React application that uses JS SDK directly)
-- **[JS SDK](https://github.com/streamdao/payments-protocol-js-sdk)** to interact with the protocol => [NPM package](https://www.npmjs.com/package/@streamdao/stream-payment-protocol/v/0.1.0)
+- **[JS SDK](https://github.com/streamdao/payments-protocol-js-sdk)** to interact with the protocol => [NPM package](https://www.npmjs.com/package/@streamdao/stream-payment-protocol-payment-protocol/v/0.1.0)
 - **[Rust SDK](https://github.com/streamdao/stream-payment-protocol-rust-sdk)** to integrate within a Solana program => [Rust Crate](https://docs.rs/stream-payment-sdk/)
 
 ## JS SDK
@@ -22,7 +22,7 @@ You can also `getOne` stream and `get` multiple streams.
 
 ### Installation
 
-`npm i @streamdao/stream @solana/web3.js @project-serum/anchor`
+`npm i @streamdao/stream-payment-protocol @solana/web3.js @project-serum/anchor`
 
 > _Anchor is needed for the `Wallet` type. We plan on removing this dependency in upcoming releases._
 
@@ -55,7 +55,7 @@ import Stream, {
   Cluster,
   TransactionResponse,
   CreateStreamResponse,
-} from "@streamdao/stream";
+} from "@streamdao/stream-payment-protocol";
 ```
 
 _Check the SDK for other types and utility functions._
